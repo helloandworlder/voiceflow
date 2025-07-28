@@ -1,0 +1,13 @@
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>VoiceInk Updates</title>
+    <item>
+      <title>Version 1.2.3</title>
+      <enclosure
+        url="https://yourname.github.io/VoiceInk/VoiceInk-1.2.3.dmg"
+        sparkle:version="123"
+        type="application/octet-stream"
+        sparkle:edSignature="签名字符串"/>
+    </item>
+  </channel>
+</rss>
