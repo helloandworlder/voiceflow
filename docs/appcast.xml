@@ -1,13 +1,23 @@
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
-    <title>VoiceInk Updates</title>
+    <title>VoiceFlow Releases</title>
     <item>
-      <title>Version 1.2.3</title>
+      <title>1.42</title>
+      <pubDate>Sat, 25 June 2025 12:20:00 +0545</pubDate>
+      <sparkle:version>142</sparkle:version>
+      <sparkle:shortVersionString>1.42</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.42 🚀⚡</h3>
+        ]]>
+      </description>
       <enclosure
-        url="https://yourname.github.io/VoiceInk/VoiceInk-1.2.3.dmg"
-        sparkle:version="123"
+        url="https://github.com/helloandworlder/voiceflow/releases/download/v1.42/VoiceFlow.dmg"
+        length="8511483"
         type="application/octet-stream"
-        sparkle:edSignature="签名字符串"/>
+        sparkle:edSignature="veXwCnPjSTWJrSJfCL7JUycnwFu2dNrjaK6sbu6WtY4"
+      />
     </item>
   </channel>
 </rss>
